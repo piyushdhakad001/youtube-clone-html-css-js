@@ -1,1 +1,0 @@
-console.log("I started JavaScript today")
